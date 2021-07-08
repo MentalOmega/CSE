@@ -10,6 +10,10 @@ but I do not recommend further research based on my code. Forgive my poor implem
 
 
 
+If you have some trouble, keep contact with my e-mail: cm_westwood@foxmail.com
+
+
+
 *Have fun and enjoy it :)*
 
 
