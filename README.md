@@ -9,7 +9,7 @@ Links: [[Poster\]](https://cm_westwood.gitee.io/winter_training_2021/%E7%AC%AC11
 
 but I do not recommend further research based on my code. Forgive my poor implementation.
 
-- If you have some trouble, keep contact with my e-mail: cm_westwood@foxmail.com
+- If you have some trouble, keep in contact with my e-mail: cm_westwood@foxmail.com
 
 
 
